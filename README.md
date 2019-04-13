@@ -16,7 +16,7 @@ antd - https://ant.design/
 2.for venue details: https://api.foursquare.com/v2/venues/VENUE_ID
 
 ### Cors
-some browsers might find the api bloacked with cors. 
+some browsers might find the api blocked with cors. 
 In case of cors blockage download any cors extension from chrome extension enable it .
 
 ## Available Scripts
