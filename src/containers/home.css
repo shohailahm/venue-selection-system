@@ -1,0 +1,46 @@
+.main{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding:2% 2%;
+    font-weight: bold;
+    
+}
+.input-div{
+    width:40%;
+    margin-top:2%;
+}
+.grid-container {
+    width:80%;
+    /* margin-top:3%; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: #fff;
+    /* padding: 10px; */
+  }
+  .gridItem{
+      border-style: solid;
+      border-width: 0.5px;
+      border-color: gray;
+      text-align: center;
+      padding: 10px;
+  }
+
+  .selected{
+      background-color: bisque;
+      color:#88A1FA;
+      opacity: 0.45;
+  }
+  a{
+      color: bisque;
+  }
+  .selected-block{
+      background-color:	#008000	;
+      opacity: 0.75;
+  }
+  .inputs{
+    border: 2px solid #1890ff;
+    border-radius: 5px; 
+    width:95%;
+    padding:5px;
+  }
