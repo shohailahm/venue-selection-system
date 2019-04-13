@@ -3,10 +3,12 @@ This Application uses the foursquare api to get recommended location and lets us
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot](Screenshot.png)
 
 
 ### Libraries used
 antd - https://ant.design/
+
 
 ### End points used from foursquare
 1.venue recommendations : https://api.foursquare.com/v2/venues/explore
