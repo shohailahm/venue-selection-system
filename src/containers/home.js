@@ -9,6 +9,7 @@ const clientId="SSPAT22O2IV2TZZWULSQKY5PADKJ3SEHSR1GOY4JIHSOJPSP";
 const clientSecret="SYCMW1UHNBMFFBA21PRQO1UZJBZE1CXFFSXKLDEWBYPTP22D";
 const userDetails={name:'',venueSelected:''}
 const venuesList={rating:'',name:'',shortUrl:''}
+
 export default class Home extends React.Component{
     state={
         venue1:{...venuesList},venue2:{...venuesList},venue3:{...venuesList},
