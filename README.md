@@ -20,6 +20,7 @@ some browsers might find the api blocked with cors.
 In case of cors blockage download any cors extension from chrome extension enable it .
 
 ## Available Scripts
+### `npm install`
 
 ### `npm start`
 
